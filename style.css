@@ -1,0 +1,18 @@
+#header {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 32px;
+}
+
+#note {
+    width: 100%;
+}
+
+.text {
+    font-size: 25px;
+}
+
+canvas {
+    background-color: mediumturquoise;
+    border: solid 10px magenta;
+}
